@@ -16,4 +16,4 @@ That's is a simple script to convert Neon Pejota bank statement to the format us
 1. Activate the virtualenv             
 2. Run the command to create a CSV file used to import all financial moves to Contabilivre:
 
-   `python <neon-statement-file>.xlsx <contabilivre-format>.csv`
+   `python main.py <neon-statement-file>.xlsx <contabilivre-format>.csv`
